@@ -1,0 +1,26 @@
+{
+    "aDAI": {
+        "decimals": 18,
+        "address": {
+            "11155111": "0x29598b72eb5CeBd806C5dCD549490FdA35B13cD8"
+        }
+    },
+    "aLINK": {
+        "decimals": 18,
+        "address": {
+            "11155111": "0x3FfAf50D4F4E96eB78f2407c090b72e86eCaed24"
+        }
+    },
+    "aWBTC": {
+        "decimals": 18,
+        "address": {
+            "11155111": "0x1804Bf30507dc2EB3bDEbbbdd859991EAeF6EefF"
+        }
+    },
+    "aUSDC": {
+        "decimals": 6,
+        "address": {
+            "11155111": "0x16dA4541aD1807f4443d92D26044C1147406EB80"
+        }
+    }
+}
